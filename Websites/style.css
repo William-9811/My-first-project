@@ -13,3 +13,13 @@ ul{
 ol{
     list-style-type:upper-roman;
 }
+a{
+    text-decoration: none;
+    background-color: aquamarine;
+}
+a:hover{
+    font-family:fantasy;
+    background-color:aqua;
+    color:#ffffff;
+
+}
