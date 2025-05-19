@@ -6,3 +6,10 @@ p{
     color:brown;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type:upper-roman;
+}
